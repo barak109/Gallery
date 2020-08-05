@@ -1,0 +1,6 @@
+module Pods_ProfilesExc_ProfilesExcTests {
+  umbrella header "Pods-ProfilesExc-ProfilesExcTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
