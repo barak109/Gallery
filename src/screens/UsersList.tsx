@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignContent: "space-around",
-    marginTop: 80
+    marginTop: 50
   },
   title: {fontSize: 24, fontWeight: "700", alignSelf: "center", marginBottom: 20},
   columnWrapperStyle: {justifyContent: "space-around"}
